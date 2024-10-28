@@ -26,6 +26,7 @@ A Q&A Chatbot built with Python and GenAI libraries, designed to handle multiple
 
 1. **Clone the repository**:
 
+
     ```bash
     git clone https://github.com/Awanish-collab/Document-Chatbot.git
     cd Document-Chatbot
@@ -54,10 +55,11 @@ A Q&A Chatbot built with Python and GenAI libraries, designed to handle multiple
 
 4. **Install Requirements**
 
-Once the virtual environment is activated, install requirements using:
-```bash
-pip install -r requirements.txt
-```
+
+    Once the virtual environment is activated, install requirements using:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 Note: You should see `(venv)` at the beginning of your command prompt when the virtual environment is activated.
 
