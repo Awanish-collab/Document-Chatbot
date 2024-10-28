@@ -32,7 +32,7 @@ A Q&A Chatbot built with Python and GenAI libraries, designed to handle multiple
     cd Document-Chatbot
 
 2. **Create Virtual Environment**:
-    ### Windows
+    ## Windows
     ```bash
     # Create virtual environment
     python -m venv venv
