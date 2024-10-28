@@ -30,18 +30,18 @@ A Q&A Chatbot built with Python and GenAI libraries, designed to handle multiple
     ```bash
     git clone https://github.com/Awanish-collab/Document-Chatbot.git
     cd Document-Chatbot
+    ```
 
 2. **Create Virtual Environment**:
-    ## Windows
+    ### Windows
     ```bash
-    # Create virtual environment
     python -m venv venv
     ```
     ### macOS/Linux
-        ```bash
-        # Create virtual environment
-        python3 -m venv venv
-        ```
+    ```bash
+    # Create virtual environment
+    python3 -m venv venv
+    ```
 
 3. **Activate Virtual Environment**
     ### Windows
