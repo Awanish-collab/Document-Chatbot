@@ -8,7 +8,7 @@ import io
 import base64
 
 def analyze_pdf(file_content):
-    """Analyze PDF content including visual elements"""
+    """Analyze PDF content including visual elements like image, diagram"""
     with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as tmp_file:
         tmp_file.write(file_content)
         tmp_file_path = tmp_file.name
